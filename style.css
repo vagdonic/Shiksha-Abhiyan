@@ -1,0 +1,75 @@
+#main-wrapper{
+	width: 500px;
+	margin:0 auto;
+	background: white;
+	padding: 5px;
+	border-radius: 10px;
+	border:2px solid #2c3e50;
+}
+.image{
+	width: 160px;
+	text-align: center;
+	border-radius: 50%;
+}
+.form{
+	width: 450px;
+	margin:0 auto;
+}
+.input{
+	width: 430px;
+	margin:0 auto;
+	padding: 5px;
+}
+#l_btn{
+	margin-top: 10px;
+	background-color: #27ae60;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#R_btn{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;	
+}
+#S_btn{
+	margin-top: 10px;
+	background-color: #3498db;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+}
+#B_btn{
+	margin-bottom: 20px;
+	margin-top: 10px;
+	background-color: #e74c3c;
+	padding: 5px;
+	color: white;
+	width: 35%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;	
+}
+#L_btn{
+	margin-top: 10px;
+	background-color: red;
+	padding: 5px;
+	color: white;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 20px; 
+}
